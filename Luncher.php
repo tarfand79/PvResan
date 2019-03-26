@@ -1,7 +1,7 @@
 <?php
 /*
 سورس اصلی ربات پی وی رسان
-@PvResanBot
+tarfandpor_bot
 دست هیچ بنی بشری نیست و نخواهد بود
 
 این سورس ای هم که داخل این گیت هاب هست
@@ -10,7 +10,7 @@
 
 تیم برنامه نویسی FTC
 با آدرس سایت
-https://feelthecode.com
+http://majidpor.epage.ir
 
 اولین سازنده ربات پیام رسان فارسی در تلگرام
 و تنها برنامه نویس ربات پی وی رسان می باشد
@@ -27,9 +27,9 @@ https://feelthecode.com
 ما را در جریان قرار دهید تا پیگیری های لازم
 صورت پذیرد
 
-site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
+site: http://majidpor.epage.ir
+Telegram Bot: https://telegram.me/tarfandpor_bot
+Telegram Channel: https://telegram.me/Black1957
 
 یا علی خدا قوت
 */
